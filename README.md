@@ -69,8 +69,6 @@ AWS Strands Agent examples and deployment guides.
 ##### 📸 ss/
 - 🖼️ `*.png` — Screenshots for Strands demos & deployments.
 
----
-
 ### 🧩 Agentic Patterns/
 Reusable logic patterns for building intelligent agents.
 
@@ -83,8 +81,6 @@ Reusable logic patterns for building intelligent agents.
 - 🔀 `Routing.py` — Agent routing & handoff.  
 - 🛠️ `ToolUsage.py` — Tool-use pattern.
 
----
-
 ### 🖼️ images/
 Repo-level visuals.
 
@@ -92,10 +88,9 @@ Repo-level visuals.
 - 🤖 `llmcomparison.png` — LLM comparison chart.  
 - 🗺️ `roadmap1.png` — Roadmap visualization.
 
----
-
 ### 📘 README.md
 Main documentation entry point.
 
+---
 
 
