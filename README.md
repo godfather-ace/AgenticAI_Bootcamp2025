@@ -21,4 +21,12 @@ Walk away with real working systems, reusable frameworks, and a strategic roadma
 - LLM Quantisation and Deployment - https://tinyurl.com/4ye9bwc6
 - AWS Services for MLOPs - https://tinyurl.com/5x3p79ua
 
+---
+
 ![roadmap1](/images/roadmap1.png)
+![llmcomparison](/images/llmcomparison.png)
+![agentcomparison](/images/agentcomparison.png)
+
+---
+
+## Directory Structure
